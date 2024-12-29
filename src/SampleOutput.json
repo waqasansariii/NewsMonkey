@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Securityaffairs.com"
+        },
+        "author": "Pierluigi Paganini",
+        "title": "PUMAKIT, a sophisticated rootkit that uses advanced stealth mechanisms",
+        "description": "Researchers discovered PUMAKIT, a Linux rootkit capable of hiding files, escalating privileges, and evading system tools and detection. Elastic Security Lab researchers discovered a new loadable kernel module (LKM) rootkit called PUMAKIT that supports advance…",
+        "url": "https://securityaffairs.com/172016/malware/pumakit-sophisticated-rootkit.html",
+        "urlToImage": "https://securityaffairs.com/wp-content/uploads/2024/12/image-18.png",
+        "publishedAt": "2024-12-15T16:11:57Z",
+        "content": "PUMAKIT, a sophisticated rootkit that uses advanced stealth mechanisms | SECURITY AFFAIRS MALWARE NEWSLETTER ROUND 24 | Security Affairs newsletter Round 502 by Pierluigi Paganini INTERNATIONAL … [+123687 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Blog.br"
+        },
+        "author": "noreply@blogger.com (Mendes - Editor)",
+        "title": "Carros e marcas mais vendidos em Portugal - novembro 2024",
+        "description": "O ranking de carros mais vendidos revelou que, em novembro de 2024, foram comercializados 16.400 unidades em Portugal, representando um crescimento de 4,0% em relação ao mesmo período do ano anterior. O Peugeot 2008 lidera o ranking com 571 unidades – crescim…",
+        "url": "https://www.car.blog.br/2024/12/carros-e-marcas-mais-vendidos-em.html",
+        "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBGoDWsVwyKARZB_2DL5qqaYdc0Ay7zcJvTZ6HGIQ2HdyJMujMeO4G0tF2UJ-VipQHC9fz-uV-bhMNyubMSGjzgh222jMNQVbuhgAwvnIf8ZWcPbDJvqnByDr7JbCm2E0mtSMplunB-SsI-HV3KLsy7ELSKG5Efn3D6ibhR_Te4tvxKFsXI0vWh7ZZkrk4/s600/PEUGEOT2008-0066%20conv.jpg",
+        "publishedAt": "2024-12-15T16:06:00Z",
+        "content": "O ranking de carros mais vendidos revelou que, em novembro de 2024, foram comercializados 16.400 unidades em Portugal, representando um crescimento de 4,0% em relação ao mesmo período do ano anterior… [+10186 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Journal du geek"
+        },
+        "author": "Olivier",
+        "title": "Tesla : le robot Optimus sort des sentiers battus",
+        "description": "Tesla continue de peaufiner son robot humanoïde Optimus, qui se montre de plus en plus agile. Dans une vidéo, le constructeur dévoile les derniers progrès : Optimus parvient à marcher sur des terrains irréguliers, une nouveauté qui n’a pas manqué de susciter …",
+        "url": "https://www.journaldugeek.com/2024/12/15/tesla-le-robot-optimus-sort-des-sentiers-battus/",
+        "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/11/optimus-tesla.jpg",
+        "publishedAt": "2024-12-15T16:01:11Z",
+        "content": "La dernière démonstration dOptimus est pour le moins impressionnante, même si tout nest pas encore parfait. Dans la vidéo, on voit le robot gravir et descendre des collines couvertes de copeaux de bo… [+2681 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Erickimphotography.com"
+        },
+        "author": "ERIC KIM",
+        "title": "Introduction to Bitcoin Transcript",
+        "description": "So the Bitcoin revolution, the revolution will be televised. So, starting off. First, what is Bitcoin? Why does it matter? So I think the 1st important critical thing is trying to consider and think you know what is Bitcoin we’ve all heard about in the news w…",
+        "url": "https://erickimphotography.com/blog/2024/12/15/introduction-to-bitcoin-transcript/",
+        "urlToImage": null,
+        "publishedAt": "2024-12-15T15:58:52Z",
+        "content": "So the Bitcoin revolution, the revolution will be televised. So, starting off. First, what is Bitcoin? Why does it matter? So I think the 1st important critical thing is trying to consider and thin… [+56989 chars]"
+      }
+    ]
+  }
+  
